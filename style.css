@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+    box-sizing: border-box;
+}
+header{
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    border: 1px;
+}
+main{
+    margin: auto;
+    width: 70%;
+    float: left;
+    border: black;
+}
+aside{
+    margin: auto;
+    width: 30%;
+    float: right;
+    border: black;
+}
+footer{
+    text-align: center;
+    border: black;
+    clear: both;
+}
